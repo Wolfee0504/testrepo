@@ -6,9 +6,7 @@
 
 
 import tkinter as tk
-import sys
 
-print("Innen jön:", sys.argv)
 
 
 ### Gombkreáló metódus ############################################################
